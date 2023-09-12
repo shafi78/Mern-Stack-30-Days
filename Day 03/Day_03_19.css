@@ -1,0 +1,60 @@
+/* (Part - A) Selectors */
+
+* {
+    text-align: center;
+}
+
+#mainTopic {
+    color: blue;
+}
+
+h1,h3,h5 {
+    font-family: Georgia;
+}
+
+.mypara {
+    color: white;
+    background-color: cornflowerblue;
+}
+
+div button {
+    background-color: purple;
+    color: azure;
+}
+
+
+
+/* (Part - B) Pseudo class & elements */
+
+button:hover {
+    background-color: yellow;
+    color: blue;
+}
+
+p:nth-of-type(2n) {
+    color: yellow;
+}
+
+h1::first-letter {
+    color: red;
+}
+
+#yes:checked + label {
+    color: darkgreen;
+}
+
+
+/* (Part - C) Order these rules according to their specificty , from least to most specific. */
+
+/* 1. h1 */
+/* 2. #mainContent */
+/* 3. .main */
+/* 4. div .main  */
+
+
+/* Answer => */
+
+/* 1. #mainContent */
+/* 2. div .main  */
+/* 3. .main  */
+/* 4. h1 */

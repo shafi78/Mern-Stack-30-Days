@@ -1,0 +1,151 @@
+/* Descendent Selector */
+
+.post a{
+    color: purple;
+}
+
+nav ul li,a{
+    color: hotpink;
+}
+
+
+
+/* Adjacent Sibling Combinator */
+
+p + h3 {
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color: lightcyan;
+    color: darkblue;
+}
+
+
+
+/* Child Combinator */
+
+div > input {
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+/* Attribute Selector */
+
+input[type="text"] {
+    color: green;
+}
+
+input[type="password"] {
+    color: red;
+}
+
+input[type] {
+    background-color: ghostwhite;
+}
+
+
+
+/* Pseudo Class  */
+
+/* hover */
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+h3:hover {
+    text-decoration: none;
+}
+
+h3:hover {
+    text-decoration: overline;
+}
+
+
+
+/* active */
+
+button:active {
+    background-color: hotpink;
+    color: black;
+}
+
+p:active {
+    font-weight: bold;
+    color: green;
+}
+
+
+
+/* checked */
+
+input[type="radio"]:checked + label {
+    color: red;
+    font-weight: bold;
+}
+
+
+
+/* n-th-of-type */
+
+div:nth-of-type(2) {
+    background-color: bisque;
+}
+
+
+
+
+/* Pseudo Element */
+
+/* ::first-letter */
+/* ::first-line */
+/* ::selection */
+
+
+h1::first-letter {
+    color: green;
+}
+
+p::first-line {
+    color: red;
+}
+
+p::selection {
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+/* Cascading stylesheets */
+
+h3 {
+    background-color: red;
+}
+
+h3 {
+    background-color: yellow;
+}
+
+h3 {
+    background-color: greenyellow;
+}
+
+/* h3 takes greenyellow colour */
+
+
+
+/* Selector Specificity */
+
+/* 1) id > class > element  */
+
+/* 2) more selectors > less selectors */
+
+/* 3) if specificity same => cascading stylesheet */
+
+
+
+/* Inline Specificity */
+
