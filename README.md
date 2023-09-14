@@ -79,3 +79,18 @@ Things I learnt Today :
 10. Position
 11. Created a simple smiley face
 12. Completed some tasks
+
+-----------------------------
+
+Day 5 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Flexbox ( direction , justify content , flex wrap , align content )
+2. Flex Sizing ( flex basis , flex grow , flex shrink )
+3. CSS Grid ( Grid model , template , gaps , rows , columns )
+4. Grid Properties
+5. CSS Animations ( @keyframes , name , duration , timing , count , direction )
+6. Media Queries ( @media , max-width , min-width )
+7. Z-index
+8. Completed some tasks
