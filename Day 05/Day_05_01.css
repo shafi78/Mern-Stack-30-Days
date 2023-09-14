@@ -1,0 +1,171 @@
+#container {
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+}
+
+h2 {
+    text-align: center;
+}
+
+#container div {
+    height: 100px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+
+
+/* Flex direction : row (default) */
+
+#container {
+    flex-direction: row;
+}
+
+
+
+/* Flex direction : row-reverse */
+
+#container {
+    flex-direction: row-reverse;
+}
+
+
+
+/* Flex direction : column */
+
+#container {
+    flex-direction: column;
+}
+
+
+
+/* Flex direction : column-reverse */
+
+#container {
+    flex-direction: column-reverse;
+}
+
+
+
+
+/* Justify Content */
+
+/* Justify content : flex-start */
+
+#container {
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+
+
+/* Justify content : flex-end */
+
+#container {
+    justify-content: flex-end;
+}
+
+
+
+/* Justify content : center */
+
+#container {
+    justify-content: center;
+}
+
+
+
+/* Justify content : space-between */
+
+#container {
+    justify-content: space-between;
+}
+
+
+
+/* Justify content : space-around */
+
+#container {
+    justify-content: space-around;
+}
+
+
+
+/* Justify content : space-evenly */
+
+#container {
+    justify-content: space-evenly;
+}
+
+
+
+/* Flex Wrap */
+
+/* flex wrap : nowwrap */
+
+#container {
+    flex-wrap: nowrap;
+}
+
+
+/* flex wrap : wrap */
+
+#container {
+    flex-wrap: wrap;
+}
+
+
+/* flex wrap : wrap-reverse */
+
+#container {
+    flex-wrap: wrap-reverse;
+}
+
+
+
+/* Align items */
+
+/* align items : center */
+
+#container {
+    align-items: center;
+}
+
+
+/* Align content */
+
+/* align content : flex-start */
+
+#container {
+    align-content: flex-start;
+}
+
+
+/* align content : flex-end */
+
+#container {
+    align-content: flex-end;
+}
+
+
+/* align content : center */
+
+#container {
+    align-content: center;
+}
+
+
+
+/* Align Self */
+
+/* align self : flex-start */
+
+#red {
+    align-self: flex-end;
+}

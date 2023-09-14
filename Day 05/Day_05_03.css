@@ -1,0 +1,49 @@
+/* Ans 1) */
+
+#outer {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    align-self: center;
+    background-color: gray;
+    font-size: 50px;
+}
+
+
+
+/* Ans 2) */
+
+#container {
+    background-color: pink;
+    height: 50px;
+    width: 900px;
+    display: flex;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    align-content: center;
+}
+
+#container a {
+    width: 50px;
+    height: 80px;
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    line-height: 50px;
+    margin: 0 10px;
+}

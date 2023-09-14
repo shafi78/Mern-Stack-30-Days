@@ -1,0 +1,47 @@
+#container {
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+
+/* Flex basis */
+
+#red {
+    flex-basis: 100px;
+}
+
+
+
+/* Flex grow */
+
+#red {
+    flex-grow: 0;
+}
+
+
+
+/* Flex shrink */
+
+#blue {
+    flex-shrink: 3;
+}
+
+
+
+/* Flex Shorthand */
+
+/* flex-grow  flex-shrink  flex-basis */
+
+#red {
+    flex: 2 2 100px;
+}
