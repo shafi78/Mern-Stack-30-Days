@@ -1,0 +1,47 @@
+.container {
+    width: 600px;
+    height: 300px;
+    background-color: yellow;
+    display: grid;
+}
+
+.item {
+    width: 100px;
+    height: 50px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.container {
+    grid-template-rows: 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px;
+}
+
+
+/* justify items */
+
+.container {
+    justify-items: start;
+}
+
+.one {
+    justify-self: end;
+}
+
+.container {
+    align-items: start;
+}
+
+.one {
+    align-self: start;
+}
+
+.container {
+    place-items: center;
+}
+
+.one {
+    place-self: start;
+}
+
