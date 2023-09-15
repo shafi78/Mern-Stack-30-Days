@@ -94,3 +94,14 @@ Things I learnt Today :
 6. Media Queries ( @media , max-width , min-width )
 7. Z-index
 8. Completed some tasks
+
+-----------------------------
+
+Day 6 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Color theory
+2. Typography (font family)
+3. Google Fonts
+4. Side Bar ( Mini Project )
