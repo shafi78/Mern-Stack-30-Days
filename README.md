@@ -105,3 +105,15 @@ Things I learnt Today :
 2. Typography (font family)
 3. Google Fonts
 4. Side Bar ( Mini Project )
+5. Started Bootstrap
+6. Container Layout
+7. Button Component
+8. Badge Components
+9. Alert Components
+10. Button Group Component
+11. Navbar Component
+12. Card Components
+13. Grid Layout
+14. Form Controls
+15. Spotify Clone ( Mini Project )
+16. Completed some tasks
