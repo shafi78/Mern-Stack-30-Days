@@ -117,3 +117,25 @@ Things I learnt Today :
 14. Form Controls
 15. Spotify Clone ( Mini Project )
 16. Completed some tasks
+
+-----------------------------
+
+Day 7 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Started JavaScript
+2. Variables in JS
+3. DataTypes in JS
+4. Operations in JS
+5. NaN in JS
+6. Operator Precedence
+7. Keywords in JS
+8. Assignment Operators in JS
+9. Unary Operators in JS
+10. Identifier Rules
+11. Boolean in JS
+12. Strings in JS
+13. String Indices
+14. null & undefined in JS
+15. Completed some tasks
