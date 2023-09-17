@@ -139,3 +139,20 @@ Things I learnt Today :
 13. String Indices
 14. null & undefined in JS
 15. Completed some tasks
+
+-----------------------------
+
+Day 8 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Console.log()
+2. Template Literals in JS
+3. Operators in JS
+4. Comparison for Non-Numbers 
+5. Conditional Statements
+6. Logical Operators
+7. truthy & falsy values
+8. Switch Statement 
+9. Alert & Prompt 
+10. Completed some tasks
