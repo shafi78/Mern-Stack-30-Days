@@ -156,3 +156,18 @@ Things I learnt Today :
 8. Switch Statement 
 9. Alert & Prompt 
 10. Completed some tasks
+
+-----------------------------
+
+Day 9 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. String Methods
+2. Array (Data Structure)
+3. Array Methods 
+4. Array References (address in memory)
+5. Constant Arrays
+6. Nested Arrays
+7. Completed some tasks
+
