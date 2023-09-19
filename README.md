@@ -171,3 +171,19 @@ Things I learnt Today :
 6. Nested Arrays
 7. Completed some tasks
 
+-----------------------------
+
+Day 10 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. for Loops
+2. infinite Loop
+3. Nested for Loops
+4. while Loops
+5. break Keyword
+6. Loops with arrays
+7. Loops with nested arrays
+8. for of & nested for of
+9. Simple Todo app
+10. Completed some tasks
