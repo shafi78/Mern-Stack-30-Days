@@ -187,3 +187,16 @@ Things I learnt Today :
 8. for of & nested for of
 9. Simple Todo app
 10. Completed some tasks
+
+-----------------------------
+
+Day 11 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Object Literals
+2. Getting values ( Conversion , Add , Update , Delete)
+3. Nesting Objects (Object of Objects)
+4. Array of Objects
+5. Math objects
+6. Guessing Game using Random()
