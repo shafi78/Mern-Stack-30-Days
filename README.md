@@ -200,3 +200,11 @@ Things I learnt Today :
 4. Array of Objects
 5. Math objects
 6. Guessing Game using Random()
+7. Funtions in JS
+8. Function with Arguments
+9. return Keyword
+10. Scope
+11. Function Expressions
+12. High order functions
+13. Methods
+14. Completed some tasks
