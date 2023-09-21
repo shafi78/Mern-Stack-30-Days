@@ -61,7 +61,7 @@ isEven(4);          // Even number
 
 
 
-// Q 3) What is the output of the following code.
+// Q 5) What is the output of the following code.
 
 const  object = {
     message: 'Hello, World!',
