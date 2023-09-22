@@ -208,3 +208,20 @@ Things I learnt Today :
 12. High order functions
 13. Methods
 14. Completed some tasks
+
+-----------------------------
+
+Day 12 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. this Keyword
+2. try & catch 
+3. Arrow functions
+4. Set Timeout , Set Interval
+5. Array Methods (Map,filter,every,some,reduce)
+6. Default Parameters
+7. Spread Operator (...)
+8. Function with Arguments
+9. Destructuring
+10. Completed some tasks
