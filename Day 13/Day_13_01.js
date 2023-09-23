@@ -95,3 +95,121 @@ img.setAttribute('id','spidermanImg')
 // reset the image attributes
 
 img.setAttribute('id','mainImg')
+
+
+
+// Manipulating Styles
+
+let heading = document.querySelector('h1');
+
+heading.style.color = 'purple';
+heading.style.textAlign = 'center';
+heading.style.background = 'azure';
+
+
+// using Class List
+
+img = document.querySelector('img')
+
+console.log(img.classList);
+
+
+// add()
+
+heading = document.querySelector('h1');
+
+heading.classList.add('green');
+// adds green class
+
+heading.classList.remove('green');
+// removes green class
+
+heading.classList.contains('green');
+// false
+
+heading.classList.toggle('newclass');
+// true
+
+heading.classList.toggle('newclass');
+// false
+
+
+
+
+// Navigation on Page
+
+let h4 = document.querySelector('h4');
+
+console.log(h4.parentElement);
+// div
+
+
+console.log(h4.children);
+// []
+
+
+
+let box = document.querySelector('.box');
+
+console.log(box.children);
+// [h4,ul]
+
+
+
+
+// Adding Elements on Page
+
+let newP = document.createElement('p');
+
+newP.innerText = 'hello this is new paragraph';
+
+
+// Append Child
+
+let body = document.querySelector('body');
+
+body.appendChild(newP);
+
+box.appendChild(newP);
+
+
+
+// Append (last)
+
+newP.append(' Iam from append');
+
+
+
+// Prepend (first)
+
+newP.prepend('Iam from prepend ');
+
+
+
+// Insert Adjacent (where , element)
+
+let btn = document.createElement('button');
+
+btn.innerText = 'Click me!' ;
+
+newP.insertAdjacentElement('beforebegin',btn);
+
+newP.insertAdjacentElement('afterbegin',btn);
+
+newP.insertAdjacentElement('beforeend',btn);
+
+newP.insertAdjacentElement('afterend',btn);
+
+
+
+// Removing Elements
+
+
+// remove 
+
+btn.remove() ;
+
+
+// remove child
+
+body.removeChild(newP);
