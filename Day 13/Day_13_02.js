@@ -1,6 +1,7 @@
 // Practice Questions
 
-// Add the following elements to the container using only javascript and the DOM methods.
+
+// Q 1) Add the following elements to the container using only javascript and the DOM methods.
 
 // i) a <p> with red text that says "Hey I'm red!"
 
@@ -45,3 +46,50 @@ newP.innerText = "ME TOO!";
 
 div.style.border = '1px solid black';
 div.style.backgroundColor = 'pink';
+
+
+
+
+// Q 2) Create a new input and button element on the page using JavaScript only. Set the text of button to “Click me”;
+
+let input = document.createElement('input');
+let btn = document.createElement('button');
+
+body.appendChild(input);
+body.appendChild(btn);
+
+btn.innerText = "Click me";
+
+
+
+
+// Q 3) Add the following attributes to the element : 
+
+// - change placeholder value of input to "username"
+// - change the id of button to "btn"
+
+input.placeholder = "username"
+
+btn.setAttribute('id',"btn");
+
+
+
+// Q 4) Create an h1 element on the page and set its text to 'DOM Practice' underlined. change its color to purple.
+
+h1 = document.createElement('h1');
+
+body.appendChild(h1);
+
+h1.innerHTML = '<u>DOM Practice</u>';
+h1.style.color = 'purple';
+
+
+
+
+// Q 5) Create a p tag on the page and set its text to "Mern Stack Development", where Stack is bold.
+
+newP = document.createElement('p');
+
+body.appendChild(newP);
+
+newP.innerHTML = 'Mern Stack Development';
