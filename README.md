@@ -225,3 +225,20 @@ Things I learnt Today :
 8. Function with Arguments
 9. Destructuring
 10. Completed some tasks
+
+-----------------------------
+
+Day 13 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Document Object Model (DOM)
+2. Selecting Elements
+3. Setting up content in objects
+4. Manipulation
+5. Navigation on Page
+6. Adding Elements on Page
+7. Removing Elements
+8. DOM Events
+9. Event Listeners
+10. Completed some tasks
