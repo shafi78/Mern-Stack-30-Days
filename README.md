@@ -241,4 +241,8 @@ Things I learnt Today :
 7. Removing Elements
 8. DOM Events
 9. Event Listeners
-10. Completed some tasks
+10. Keyboard Events
+11. Form Events
+12. change event , input event
+13. Color Generator using event listener (Mini Project)
+14. Completed some tasks
