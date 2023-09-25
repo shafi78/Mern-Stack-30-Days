@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212;
+}
+
+.container {
+    display: flex;
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid black;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    margin-top: 10rem;
+    background-color: white;
+}
+
+h1 {
+    align-items: center;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+ul {
+    list-style: decimal;
+}
+
+ul li button {
+    border-radius: 0;
+    padding: 5px;
+    margin-left: 1rem;
+}
