@@ -246,3 +246,20 @@ Things I learnt Today :
 12. change event , input event
 13. Color Generator using event listener (Mini Project)
 14. Completed some tasks
+
+-----------------------------
+
+Day 14 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Todo App (Updated)
+2. Simon Says Game
+3. Event Bubling
+4. Call Stack 
+5. Break Points
+6. Call back Hell
+7. Promises
+8. promise chaining
+9. Promises ( then() & catch() )
+10. Completed some tasks
