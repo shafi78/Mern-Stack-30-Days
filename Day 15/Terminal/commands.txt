@@ -1,0 +1,61 @@
+Basic : 
+
+ls - list files
+
+pwd - print working directory
+
+clear - clear screen
+
+
+
+Navigation :
+
+cd
+
+cd..
+
+
+
+Absolute path :
+
+cd Users/asus/shafi/Desktop/mernstack
+
+
+
+Relative path :
+
+cd mern/html
+
+
+/ = root directory
+~ = home directory
+
+
+
+Making Directories :
+
+mkdir - make directory
+
+
+
+Flags :
+
+mannual command ->
+
+man ls - give info about ls command
+
+man mkdir - give info about mkdir command
+
+ls -l
+
+ls -a 
+
+
+
+Deleting Files & Folders : 
+
+rm - remove files 
+
+rmdir - remove folders 
+
+rm -rf  remove any folder 

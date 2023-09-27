@@ -263,3 +263,17 @@ Things I learnt Today :
 8. promise chaining
 9. Promises ( then() & catch() )
 10. Completed some tasks
+
+-----------------------------
+
+Day 15 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Async function
+2. Await Keyword
+3. Handling Rejections
+4. API
+5. Axios
+6. Terminal commands
+7. Completed some tasks
