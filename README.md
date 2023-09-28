@@ -277,3 +277,11 @@ Things I learnt Today :
 5. Axios
 6. Terminal commands
 7. Completed some tasks
+
+-----------------------------
+
+Day 16 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Git & Github
