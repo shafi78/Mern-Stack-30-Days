@@ -1,0 +1,14 @@
+{
+  "name": "day-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day_18_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shafi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
