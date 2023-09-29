@@ -285,3 +285,30 @@ Day 16 / 30 Days of MERN Stack
 Things I learnt Today :
 
 1. Git & Github
+
+-----------------------------
+
+Day 17 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Started Node js
+2. Node REPL (cmd)
+3. Node Files
+4. Process 
+5. module.exports
+6. NPM ( Node Package Manager )
+7. import modules
+
+-----------------------------
+
+Day 18 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Started Express js
+2. app.use 
+3. Routing
+4. Nodemon : 
+5. Path parameters :
+6. Query Strings
