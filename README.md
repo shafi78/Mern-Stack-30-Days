@@ -309,6 +309,14 @@ Things I learnt Today :
 1. Started Express js
 2. app.use 
 3. Routing
-4. Nodemon : 
-5. Path parameters :
+4. Nodemon 
+5. Path parameters 
 6. Query Strings
+7. Templating 
+8. Using EJS
+9. view directory
+10. Interpolation Syntax
+11. processing data to EJS
+12. Includes
+13. Instagram page with EJS
+14. Serving static files
