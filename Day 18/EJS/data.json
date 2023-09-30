@@ -1,0 +1,46 @@
+{
+    "cats": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+        {
+            "image": "https://images.pexels.com/photos/3361739/pexels-photo-3361739.jpeg?auto=compress&cs=tinysrgb&w=300",
+            "likes": 200,
+            "comments": 17
+        },
+        {
+            "image": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=300",
+            "likes": 312,
+            "comments": 19
+        },
+        {
+            "image": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=300",
+            "likes": 1065,
+            "comments": 200
+        }
+    ]
+},
+    "dogs": {
+    "name": "dogs",
+    "followers": 75000,
+    "following": 150,
+    "posts": [
+        {
+            "image": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=300",
+            "likes": 1200,
+            "comments": 217
+        },
+        {
+            "image": "https://images.pexels.com/photos/3361739/pexels-photo-3361739.jpeg?auto=compress&cs=tinysrgb&w=300",
+            "likes": 1312,
+            "comments": 319
+        },
+        {
+            "image": "https://images.pexels.com/photos/5257587/pexels-photo-5257587.jpeg?auto=compress&cs=tinysrgb&w=300",
+            "likes": 10,
+            "comments": 1200
+        }
+    ]
+}
+}
