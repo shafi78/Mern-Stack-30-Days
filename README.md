@@ -334,3 +334,17 @@ Things I learnt Today :
 5. new operator
 6. classes
 7. Inheritance
+
+-----------------------------
+
+Day 20 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. RESTful API's
+2. CRUD Operations
+3. Index route
+4. Create route , Id's
+5. Show route
+6. Update route
+7. Delete route
