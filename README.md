@@ -320,3 +320,17 @@ Things I learnt Today :
 12. Includes
 13. Instagram page with EJS
 14. Serving static files
+
+-----------------------------
+
+Day 19 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. GET & POST request
+2. Oops
+3. Object prototype
+4. Factory function
+5. new operator
+6. classes
+7. Inheritance
