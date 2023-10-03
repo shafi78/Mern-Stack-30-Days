@@ -348,3 +348,19 @@ Things I learnt Today :
 5. Show route
 6. Update route
 7. Delete route
+
+-----------------------------
+
+Day 21 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Started MySQL
+2. Databases
+3. Tables
+4. Keys
+5. Create , insert , update , delete ,select
+6. where , limit , order by , group by 
+7. Aggregate functions
+8. Alter , Truncate , 
+9. Completed some tasks
