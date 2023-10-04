@@ -362,5 +362,8 @@ Things I learnt Today :
 5. Create , insert , update , delete ,select
 6. where , limit , order by , group by 
 7. Aggregate functions
-8. Alter , Truncate , 
-9. Completed some tasks
+8. Alter , Truncate 
+9. Connecting Node with SQL
+10. faker js package
+11. Routing ( show , edit , update , new , delete )
+10. Completed some tasks
