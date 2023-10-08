@@ -11,7 +11,8 @@ async function main() {
 const booksSchema = new mongoose.Schema({
     title: {
         type: String,
-        required: true
+        required: true,
+        maxLength: [20,"Only 20 characters allowed"]
     },
 
     author: {
@@ -20,6 +21,11 @@ const booksSchema = new mongoose.Schema({
 
     price: {
         type: Number
+    },
+
+    category: {
+        type: String,
+        enum: ['fiction,non-fiction']
     }
 
 });
@@ -29,7 +35,8 @@ const Book = mongoose.model("Book",booksSchema);
 let book1 = new Book({
     title: "Maths",
     author: "RD Sharma",
-    price: 1200
+    price: 1200,
+    category: "fiction"
 })
 
 book1.save()
