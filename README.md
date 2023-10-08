@@ -367,3 +367,22 @@ Things I learnt Today :
 10. faker js package
 11. Routing ( show , edit , update , new , delete )
 10. Completed some tasks
+
+-----------------------------
+
+Day 22 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Started MongoDB
+2. Databases
+3. Collections
+4. Mongo shell
+5. Create , insert , update , delete , find etc in Mongo shell
+6. Mongoose
+7. Schema , Models 
+8. Create , insert , update , delete , find etc in Mongoose
+9. Schema validations
+10. MongoDB with express
+11. creating model , initializing DB
+12. Routing (index,new,create,edit,update,destroy) with small basic chat app
