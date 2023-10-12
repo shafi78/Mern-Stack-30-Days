@@ -386,3 +386,28 @@ Things I learnt Today :
 10. MongoDB with express
 11. creating model , initializing DB
 12. Routing (index,new,create,edit,update,destroy) with small basic chat app
+
+-----------------------------
+
+Day 23 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Project
+
+-----------------------------
+
+Day 24 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Middleware
+2. using next
+3. creating utility middleware
+4. Exploring app.use()
+5. API token as query string
+6. Passing multiple middlewares
+7. Error handling middlewares
+8. Custom error class
+9. Default status and message
+10. Activity
