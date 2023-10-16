@@ -411,3 +411,13 @@ Things I learnt Today :
 8. Custom error class
 9. Default status and message
 10. Activity
+
+-----------------------------
+
+Day 25 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. One to few implementations MongoDB
+2. One to many implementations MongoDB
+3. One to Squillions implementations MongoDB
