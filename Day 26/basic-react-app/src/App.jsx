@@ -1,20 +1,18 @@
 import './App.css'
-import Title from './Title'
-
-function Titles() {
-  return <h1>Iam title!</h1>
-}
+import ActivityTab from './components/ActivityTab'
+import Button from './components/Button'
+import Form from './components/Form'
+import ProductTab from './components/ProductTab'
 
 function App() {
 
   return (
     <>
-    <Titles />
-      <div>
-        <h1>Hello shafi</h1>
-        <button>Click me!</button>
-      </div>
-      <Title />
+          {/* <h2>Blockbuster Deals | Shop Now</h2> */}
+    {/* <ProductTab /> */}
+    {/* <ActivityTab /> */}
+    {/* <Button /> */}
+    <Form />
     </>
   )
 }
