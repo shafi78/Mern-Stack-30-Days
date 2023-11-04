@@ -421,3 +421,20 @@ Things I learnt Today :
 1. One to few implementations MongoDB
 2. One to many implementations MongoDB
 3. One to Squillions implementations MongoDB
+
+-----------------------------
+
+Day 26 / 30 Days of MERN Stack
+
+Things I learnt Today :
+
+1. Started React js
+2. JSX , Components , Import - Export , Fragments and Styles
+3. Props , Passing arrays , rendering array , conditionals
+4. Dynamic components styling 
+5. Small Activity (Amazon Card)
+6. Handling events 
+7. State in React
+8. useState()
+9. Activity (Like button)
+10. Closures , Callbacks in state and more
