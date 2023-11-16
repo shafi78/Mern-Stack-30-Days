@@ -1,10 +1,9 @@
 import React from 'react'
+import "./TicketNum.css"
 
-const TicketNum = () => {
+const TicketNum = ({num}) => {
   return (
-    <div>
-        
-    </div>
+        <span className='TicketNum'>{num}</span>
   )
 }
 

@@ -1,28 +1,22 @@
 import React from 'react'
 import { useState } from 'react'
-import './Lottery.css' ;
 import { genTicket,sum } from './helper';
+import Ticket from './Ticket';
 
-const Lottery = () => {
+const Lottery = ({n=3,winningSum=15}) => {
 
-    const [ticket,setTicket] = useState(genTicket(3));
-    let isWinning = sum(ticket) === 15 ;
+    const [ticket,setTicket] = useState(genTicket(n));
+    let isWinning = sum(ticket) === winningSum ;
 
     let buyTicket = () => {
-      setTicket(genTicket(3));
+      setTicket(genTicket(n));
     }
 
 
   return (
     <div>
         <h1>Lottery Game ( 15 )</h1>
-        <div className="ticket">
-            <span>{ticket[0]}</span>
-            &nbsp;
-            <span>{ticket[1]}</span>
-            &nbsp;
-            <span>{ticket[2]}</span>
-        </div>
+        <Ticket ticket={ticket} />
         <br />
         <button onClick={buyTicket}>Buy New Ticket</button>
         <h3>{isWinning ? "Congratulations, you won!" : "Try again!" }</h3>

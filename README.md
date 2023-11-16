@@ -426,7 +426,7 @@ Things I learnt Today :
 
 Day 26 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Started React js
 2. JSX , Components , Import - Export , Fragments and Styles
@@ -438,3 +438,17 @@ Things I learnt Today :
 8. useState()
 9. Activity (Like button)
 10. Closures , Callbacks in state and more
+
+-----------------------------
+
+Day 27 / 30 Days of MERN Stack
+
+Things I Revised Today :
+
+1. Objects & State
+2. Arrays & State
+3. Activity : Todo App
+4. Activity : Lottery Game
+5. Forms
+6. Activity : Write a Comment
+7. Activity : Random Joke API
