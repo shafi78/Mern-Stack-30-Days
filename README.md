@@ -2,7 +2,7 @@ Started MERN Stack Development
 
 Day 1 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Boilerplate code
 2. Html tags ( paragraph tags , heading tags )
@@ -19,7 +19,7 @@ Things I learnt Today :
 
 Day 2 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Inline v/s Block
 2. div , span
@@ -42,7 +42,7 @@ Things I learnt Today :
 
 Day 3 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Started CSS
 2. Including styles ( inline , internal , external css )
@@ -65,7 +65,7 @@ Things I learnt Today :
 
 Day 4 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Box model
 2. Display property
@@ -84,7 +84,7 @@ Things I learnt Today :
 
 Day 5 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Flexbox ( direction , justify content , flex wrap , align content )
 2. Flex Sizing ( flex basis , flex grow , flex shrink )
@@ -99,7 +99,7 @@ Things I learnt Today :
 
 Day 6 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Color theory
 2. Typography (font family)
@@ -122,7 +122,7 @@ Things I learnt Today :
 
 Day 7 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Started JavaScript
 2. Variables in JS
@@ -144,7 +144,7 @@ Things I learnt Today :
 
 Day 8 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Console.log()
 2. Template Literals in JS
@@ -161,7 +161,7 @@ Things I learnt Today :
 
 Day 9 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. String Methods
 2. Array (Data Structure)
@@ -175,7 +175,7 @@ Things I learnt Today :
 
 Day 10 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. for Loops
 2. infinite Loop
@@ -192,7 +192,7 @@ Things I learnt Today :
 
 Day 11 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Object Literals
 2. Getting values ( Conversion , Add , Update , Delete)
@@ -213,7 +213,7 @@ Things I learnt Today :
 
 Day 12 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. this Keyword
 2. try & catch 
@@ -230,7 +230,7 @@ Things I learnt Today :
 
 Day 13 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Document Object Model (DOM)
 2. Selecting Elements
@@ -251,7 +251,7 @@ Things I learnt Today :
 
 Day 14 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Todo App (Updated)
 2. Simon Says Game
@@ -268,7 +268,7 @@ Things I learnt Today :
 
 Day 15 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Revised Today :
 
 1. Async function
 2. Await Keyword
@@ -452,3 +452,15 @@ Things I Revised Today :
 5. Forms
 6. Activity : Write a Comment
 7. Activity : Random Joke API
+
+-----------------------------
+
+Day 28 / 30 Days of MERN Stack
+
+Things I Revised Today :
+
+1. Activity : Weather App
+2. Material UI
+3. Started Tailwind CSS
+4. CLI , Typography , Colors , breakpoints and @apply directive
+5. Activity : Design a Card
