@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-const UseEffectClass5 = () => {
+const UseEffectClass2 = () => {
     const  [img,setImg] = useState("");
     const url = "https://dog.ceo/api/breeds/image/random";
 
@@ -26,4 +26,4 @@ const UseEffectClass5 = () => {
   )
 }
 
-export default UseEffectClass5
+export default UseEffectClass2

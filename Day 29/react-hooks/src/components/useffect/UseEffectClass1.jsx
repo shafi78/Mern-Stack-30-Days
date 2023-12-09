@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-const UseEffectClass4 = () => {
+const UseEffectClass1 = () => {
     const url = "https://catfact.ninja/fact";
     const [fact,setFact] = useState("");
 
@@ -27,4 +27,4 @@ const UseEffectClass4 = () => {
   )
 }
 
-export default UseEffectClass4
+export default UseEffectClass1

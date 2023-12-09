@@ -464,3 +464,12 @@ Things I Revised Today :
 3. Started Tailwind CSS
 4. CLI , Typography , Colors , breakpoints and @apply directive
 5. Activity : Design a Card
+
+-----------------------------
+
+Day 29 / 30 Days of MERN Stack
+
+Things I Revised Today :
+
+1. All about Hooks
+2. Usestate , useEffect , useContestAPI , useRef , useLayoutEffect , useReducer , useCallback , useMemo and custom hooks
