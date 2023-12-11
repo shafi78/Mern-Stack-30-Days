@@ -391,7 +391,7 @@ Things I learnt Today :
 
 Day 23 / 30 Days of MERN Stack
 
-Things I learnt Today :
+Things I Done Today :
 
 1. Project
 
@@ -473,3 +473,11 @@ Things I Revised Today :
 
 1. All about Hooks
 2. Usestate , useEffect , useContestAPI , useRef , useLayoutEffect , useReducer , useCallback , useMemo and custom hooks
+
+-----------------------------
+
+Day 30 / 30 Days of MERN Stack
+
+Things I Done Today :
+
+1. Working on a project ...
